@@ -1,5 +1,5 @@
 Esta es la historia de Diego Herrera
 
-Diego nación en Bogotá en 1998
+Diego nació en Bogotá en 1998 y vivió con sus padres hasta los 23 años.
 
 Hoy se sigue el desarrollo de un curso de GIT en platzi
