@@ -1,0 +1,5 @@
+Esta es la historia de Diego Herrera
+
+Diego nación en Bogotá en 1998
+
+Hoy se sigue el desarrollo de un curso de GIT en platzi
