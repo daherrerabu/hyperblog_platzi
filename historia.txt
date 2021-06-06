@@ -7,3 +7,6 @@ Hoy se sigue el desarrollo de un curso de GIT en platzi.
 El objetivo es aprender a manejar GIT con propiedad y seguir avanzando en la línea de programación.
 
 Hoy se desempeña como Data Analyst en Merqueo.
+
+Esto es una prueba para usar el git rm -cached, git rm -forced, git reset -hard, git reset -soft, git reset HEAD
+Esto es otra prueba para usar git reset --soft
